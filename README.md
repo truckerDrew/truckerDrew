@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You are looking at my work profile. This is where I do work. If you'd like to check out where I don't do work, [click here!](https://github.com/catmandrew)
+
 <!--
 **truckerDrew/truckerDrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
